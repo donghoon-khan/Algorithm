@@ -1,0 +1,6 @@
+.metadata/*
+.sonarlint/*
+golang.org/*
+github.com/*
+*/.project
+/.metadata/

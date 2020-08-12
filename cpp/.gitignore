@@ -1,0 +1,7 @@
+.metadata/
+.sonarlint/
+*/input.txt
+.settings/
+.cproject
+.project
+Debug/
